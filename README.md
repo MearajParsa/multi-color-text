@@ -4,7 +4,7 @@
   <a href="https://github.com/MearajParsa/multi-color-text" target="blank"><img src="https://rabbit.storage.iran.liara.space/Screenshot%202024-03-09%20at%2016-46-10%20Multi%20color%20Heading%20-%20Mc%20Text%20%E2%8B%85%20Storybook.png" alt="Multi Color Text Component" /></a>
 </p>
 
-Simple and Professional Text Component 
+Simple and Professional Text Component for [React](https://react.dev/) or [Next](https://nextjs.org/)
 
 - [Initial Idea : ](#) A lightweight, simple, and professional component that can display text with multiple colors
 - [Multilingual Support : ](#) I designed the component to be language-independent and can apply colors to any language
