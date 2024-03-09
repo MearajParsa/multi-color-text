@@ -1,12 +1,11 @@
 {
-  "name": "mctext",
+  "name": "multi-color-text",
   "version": "1.0.0",
-  "description": "multi color text",
+  "description": "Simple and Professional Text Component for React or Next",
   "scripts": {
     "rollup": "rollup -c",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build",
-    "test": "jest"
+    "build-storybook": "storybook build"
   },
   "keywords": [
     "react",

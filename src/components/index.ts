@@ -1,1 +1,1 @@
-export {default as Button} from "./MCText";
+export {default as MCText} from "./MCText";
