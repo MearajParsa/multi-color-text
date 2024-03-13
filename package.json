@@ -12,8 +12,18 @@
     "nextjs",
     "heading",
     "text",
-    "text effect"
+    "text effect",
+    "text component",
+    "multi color text",
+    "multi color text component",
+    "multi color text effect",
+    "multi color text component for react or next",
+    "multi color text component for react or nextjs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MearajParsa/multi-color-text.git"
+  },
   "author": "mearaj.parsa",
   "license": "MIT",
   "devDependencies": {
